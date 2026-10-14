@@ -1,5 +1,5 @@
 # Orbit — personal AI chatbot MVP
-
+url: https://orbit-personal-ai-coral.vercel.app/
 Next.js App Router, TypeScript, Tailwind CSS, Gemini on the server, and Supabase email/password authentication, database and private file storage.
 
 ## What works
